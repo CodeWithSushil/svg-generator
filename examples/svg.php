@@ -4,9 +4,14 @@
 
 require __DIR__.'/../vendor/autoload.php';
 
-use SVG\SVG;
+use Svg\Svg;
 
-$svg = SVG::generate()
-    ->react(4, 4, 150, 150)
-    ->fill('#00044F')
-    ->get();
+$svg = new Svg(500, 800);
+
+$svg->text('SVG', 400, 380)
+    ->fontSize(32)
+    ->fontWeight(700)
+    ->textAnchor('middle')
+    ->fill('#FFF');
+
+echo $svg->render(true);
