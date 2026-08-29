@@ -1,6 +1,13 @@
 {
     "name": "sushilk/svg",
     "description": "Generate SVG Image, Icon, without left your PHP code.",
+    "keywords": [
+        "svg",
+        "Generate"
+        "generator",
+        "icon",
+        "image"
+    ],
     "type": "library",
     "require": {
         "php": "^8.5",
@@ -12,7 +19,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Sushilk\\Svg\\": "src/"
+            "SVG\\": "src/"
         }
     },
     "authors": [
