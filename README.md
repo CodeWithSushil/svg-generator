@@ -1,4 +1,4 @@
-## Lilac SVG Generator
+## SVG Generator
 
 Generate SVG Image, Icon, without left your PHP code.
 
