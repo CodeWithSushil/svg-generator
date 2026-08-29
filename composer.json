@@ -1,0 +1,26 @@
+{
+    "name": "sushilk/svg",
+    "description": "Generate SVG Image, Icon, without left your PHP code.",
+    "type": "library",
+    "require": {
+        "php": "^8.5",
+        "ext-xml": "*"
+    },
+    "require-dev": {
+        "laravel/pint": "^1.30"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sushilk\\Svg\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sushil Kumar",
+            "email": "sushilkumbhar77@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
