@@ -3,7 +3,7 @@
     "description": "Generate SVG Image, Icon, without left your PHP code.",
     "keywords": [
         "svg",
-        "Generate"
+        "Generate",
         "generator",
         "icon",
         "image"
