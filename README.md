@@ -1,5 +1,5 @@
 ## SVG Generator
-![PHP](https://img.shields.io/badge/PHP-8.5%2B-656BB4?style=for-the-badge&logo=php")
+![PHP](https://img.shields.io/badge/PHP-8.4%2B-656BB4?style=for-the-badge&logo=php")
 ![Supabase](https://img.shields.io/badge/SVG-Generator-3ECF8E?style=for-the-badge&logo=svg)
 ![Latest Version](https://img.shields.io/packagist/v/sushilk/svg.svg?style=for-the-badge&logo=packagist)
 ![Total Downloads](https://img.shields.io/packagist/dt/sushilk/svg.svg?style=for-the-badge&logo=composer)
