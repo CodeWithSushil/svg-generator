@@ -1,6 +1,6 @@
 {
     "name": "sushilk/svg",
-    "description": "Generate SVG Image, Icon, without left your PHP code.",
+    "description": "A modern, secure and fluent PHP library for generating SVG documents.",
     "keywords": [
         "svg",
         "Generate",
